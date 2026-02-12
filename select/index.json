@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "風の強い日は嫌いか？",
+  "base_artist": "ホワイト竜",
+  "createdAt": "2026-02-12T06:46:16.357164Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風の強い日は嫌いか?",
+      "artist": "ホワイト竜",
+      "has_synced": true,
+      "path": "select/01_風の強い日は嫌いか_ホワイト竜.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "風の強い日は嫌いか？",
+      "artist": "ホワイト竜",
+      "has_synced": false,
+      "path": "select/02_風の強い日は嫌いか_ホワイト竜.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "風の強い日は嫌いか？ (FranChouChou Cover)",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/03_風の強い日は嫌いか__(FranChouChou_Cover)_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "風の強い日は嫌いか？ FranChouChou cover",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/04_風の強い日は嫌いか__FranChouChou_cover_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "風の強い日は嫌いか？ FranChouChou cover(TV size)",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/05_風の強い日は嫌いか__FranChouChou_cover(TV_size)_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "風の強い日は嫌いか? - FranChouChou cover(TV size)",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/06_風の強い日は嫌いか__-_FranChouChou_cover(TV_size)_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "風の強い日は嫌いか? (FranChouChou cover)",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/07_風の強い日は嫌いか__(FranChouChou_cover)_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "風の強い日は嫌いか？ FranChouChou cover",
+      "artist": "Franchouchou",
+      "has_synced": true,
+      "path": "select/08_風の強い日は嫌いか__FranChouChou_cover_Franchouchou.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風の強い日は嫌いか?",
+      "artist": "ホワイト竜",
+      "has_synced": false,
+      "path": "select/pl_01_風の強い日は嫌いか_ホワイト竜.txt"
+    }
+  ]
+}
